@@ -64,7 +64,7 @@ html {
 }
 
 img {
-    width: 60%;
+    width: 100%;
     filter: grayscale(100%);
     padding: .5rem;
     
@@ -78,6 +78,7 @@ ul {
     margin: 20% 50px 20% auto;
     padding: 20px 0;
     border-right: 1px ridge white;
+    list-style: none;
 }
 
 li {
